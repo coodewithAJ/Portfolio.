@@ -25,7 +25,7 @@ const Contact=()=>{
 
 
     const submitHandler=async(e)=>{
-        // e.preventDefault();
+        e.preventDefault();
         // const user = {
         //    name,email,phone
         // }
